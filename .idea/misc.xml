@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/activity_cart.xml" value="0.14739583333333334" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/activity_intro.xml" value="0.21920289855072464" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/activity_item_details.xml" value="0.21920289855072464" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/activity_pres_cart.xml" value="0.21920289855072464" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/activity_setting.xml" value="0.19202898550724637" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/fragment_product.xml" value="0.2" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/fragment_sub_category.xml" value="0.1" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/item_imageview.xml" value="0.22418478260869565" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/item_search.xml" value="0.22418478260869565" />
+        <entry key="..\:/RexBox/Flutter/Radheshyam_Medical Latest/Radheshyam_Medical/Customer_Application/app/src/main/res/layout/product_item.xml" value="0.264" />
+        <entry key="..\:/Users/RizwanRaza/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_dropdown_item_1line.xml" value="0.22418478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
